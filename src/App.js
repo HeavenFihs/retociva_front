@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import BusTable from './components/BusTable';
 
